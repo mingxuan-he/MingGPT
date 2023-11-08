@@ -1,0 +1,1492 @@
+{
+    "home": {
+        "Mingxuan He": {
+            "text": [
+                "building Web3 with math, economics, and data science"
+            ],
+            "links": []
+        },
+        "Hi, I'm Ming.": {
+            "text": [
+                "I'm an M.A. candidatestudyingcomputational economics atUChicago, advised byDr.Gina Pieters.My work concentrates on quantitative research in the Web3 space, with specialization inDeFiandtokenomics. My goal is to apply computational methods like machine learning andagent-based modelingto tackle cutting-edge problems in the decentralized economy.",
+                "Most recently, I worked atNethermindas aresearchinternwhere I contributed to leading DeFi protocols like Lido and Rocket Pool. Prior to that, I was a DeFi research analyst atPolygon.I completed my B.A. in math and economics w/ honors at Grinnell College.",
+                "During free time, I enjoy gaming and watching movies/anime with family.",
+                "I'm actively seeking full-time Web3 research / data science positions starting 2024. Please don't hesitate to contact me for any relevant opportunities."
+            ],
+            "links": [
+                {
+                    "text": "computational economics atUChicago",
+                    "url": "https://macss.uchicago.edu/content/macss-econ-overview"
+                },
+                {
+                    "text": "Dr.Gina Pieters",
+                    "url": "https://www.ginapieters.com/"
+                },
+                {
+                    "text": "Nethermind",
+                    "url": "https://nethermind.io/"
+                },
+                {
+                    "text": "Polygon",
+                    "url": "https://polygon.technology/"
+                }
+            ]
+        },
+        "Links": {
+            "text": [],
+            "links": []
+        },
+        "What's New": {
+            "text": [
+                "(Oct 2023)Invited by Uniswap Foundation as a founding member of the MEV-UX research group.",
+                "(Sep 2023)Gave a talk on LSDFi @ ETH Chicago [slides](Sep 2023)Hosted a workshop on agent-based simulation for DApps @ ETH Chicago [slides](Sep 2023)Talk on LSD risks @ Science of Blockchain Conference - DFS Forum, Stanford University [slides]",
+                "(Aug 2023)Open-source project \"Dynamic Optimization Algorithm for Self-regulating Tokenomics\" accepted by Gitcoin Grants 18 and received 800+ public donations. [news article] [announcement](Jun 2023)Started a research internship at Nethermind, working on mechanism design and quantitative modeling for DeFi.",
+                "",
+                "(Oct 2022)Mentored student cohort on onchain data analysis @Blockbeam DeFi Bootcamp.(Aug 2022)Started my M.A. program in computational economics at UChicago. Received a Phoenix Merit Scholarship.(May 2022)Graduated from Grinnell College with degrees in math & economics w honors!",
+                "",
+                "(Nov 2021)Presented paper\"Cascading Failures and the Robustness of Cooperation in a Unified Scale-Free Network Model\"@ International Conference on Complex Networks and their Applications (ICCNA21)."
+            ],
+            "links": [
+                {
+                    "text": "slides",
+                    "url": "https://github.com/mingxuan-he/ethchi-talks/blob/master/LSD/LSD_slides.pdf"
+                },
+                {
+                    "text": "slides",
+                    "url": "https://github.com/mingxuan-he/ethchi-talks/blob/master/ABM/ABM_slides.pdf"
+                },
+                {
+                    "text": "slides",
+                    "url": "https://github.com/mingxuan-he/ethchi-talks/blob/master/LSD/LSD_slides_SBC.pdf"
+                },
+                {
+                    "text": "Dynamic Optimization Algorithm for Self-regulating Tokenomics",
+                    "url": "https://explorer.gitcoin.co/#/round/10/0xc5fdf5cff79e92fac1d6efa725c319248d279200/0xc5fdf5cff79e92fac1d6efa725c319248d279200-0"
+                },
+                {
+                    "text": "news article",
+                    "url": "https://www.odaily.news/post/5189094"
+                },
+                {
+                    "text": "announcement",
+                    "url": "https://forum.tecommons.org/t/results-of-te-grants-round-2/1302"
+                },
+                {
+                    "text": "\"Cascading Failures and the Robustness of Cooperation in a Unified Scale-Free Network Model\"",
+                    "url": "https://doi.org/10.1007/978-3-030-93413-2_31"
+                }
+            ]
+        },
+        "Mingxuan (Ming) He \u4f55\u660e\u5ba3": {
+            "text": [
+                "Pronouns:He/Him/His",
+                "ENS: mingxuanh.eth"
+            ],
+            "links": []
+        },
+        "AffiliatedOrgs/DAOs": {
+            "text": [
+                "ChicagoDAO/UChicago Blockchain",
+                "Pioneer Capital Investment Club",
+                "GrinnellCSAandISO",
+                "Token Engineering Commons",
+                "ChoiceDAO",
+                "BottoDAO"
+            ],
+            "links": [
+                {
+                    "text": "ChicagoDAO",
+                    "url": "https://chicagodao.io/"
+                },
+                {
+                    "text": "UChicago Blockchain",
+                    "url": "https://blockchain.rso.uchicago.edu/"
+                },
+                {
+                    "text": "Pioneer Capital Investment Club",
+                    "url": "https://pioneercapitalinvestments.com/"
+                },
+                {
+                    "text": "CSA",
+                    "url": "https://www.facebook.com/grinnellcsa/"
+                },
+                {
+                    "text": "ISO",
+                    "url": "https://www.grinnell.edu/about/leadership/offices-services/oisa/iso"
+                },
+                {
+                    "text": "Token Engineering Commons",
+                    "url": "https://tecommons.org/"
+                },
+                {
+                    "text": "ChoiceDAO",
+                    "url": "https://www.choicedao.org/"
+                },
+                {
+                    "text": "BottoDAO",
+                    "url": "https://twitter.com/BottoDAO"
+                }
+            ]
+        },
+        "Miscellaneous": {
+            "text": [
+                "Pronouncing \"Mingxuan\" \"He\""
+            ],
+            "links": [
+                {
+                    "text": "Mingxuan",
+                    "url": "https://www.youtube.com/watch?v=cF0IlREVrm8"
+                },
+                {
+                    "text": "He",
+                    "url": "https://www.youtube.com/watch?v=oYC8t4RfAQ0"
+                }
+            ]
+        },
+        "2022": {
+            "text": [
+                "(Oct 2022)Mentored student cohort on onchain data analysis @Blockbeam DeFi Bootcamp.(Aug 2022)Started my M.A. program in computational economics at UChicago. Received a Phoenix Merit Scholarship.(May 2022)Graduated from Grinnell College with degrees in math & economics w honors!",
+                "",
+                "(Nov 2021)Presented paper\"Cascading Failures and the Robustness of Cooperation in a Unified Scale-Free Network Model\"@ International Conference on Complex Networks and their Applications (ICCNA21)."
+            ],
+            "links": [
+                {
+                    "text": "\"Cascading Failures and the Robustness of Cooperation in a Unified Scale-Free Network Model\"",
+                    "url": "https://doi.org/10.1007/978-3-030-93413-2_31"
+                }
+            ]
+        },
+        "2021": {
+            "text": [
+                "(Nov 2021)Presented paper\"Cascading Failures and the Robustness of Cooperation in a Unified Scale-Free Network Model\"@ International Conference on Complex Networks and their Applications (ICCNA21)."
+            ],
+            "links": [
+                {
+                    "text": "\"Cascading Failures and the Robustness of Cooperation in a Unified Scale-Free Network Model\"",
+                    "url": "https://doi.org/10.1007/978-3-030-93413-2_31"
+                }
+            ]
+        }
+    },
+    "projects": {
+        "Projects": {
+            "text": [],
+            "links": []
+        },
+        "Dynamic modeling for optimal cryptoeconomic policies(Master's thesis in progress)": {
+            "text": [
+                "| tokenomics | monetary theory | dynamic optimization |",
+                "seegithub repo",
+                "This research project applies dynamic stochastic general equilibrium methods to model and optimize crypto policies for staking and burning. My goal is to provide insights for designing a cryptoeconomic system that self-regulates without requiring governance power.",
+                "Currently in the phase of model formalization."
+            ],
+            "links": [
+                {
+                    "text": "github repo",
+                    "url": "https://github.com/mingxuan-he/dp-tokenomics"
+                }
+            ]
+        },
+        "Large-scale time series modeling for Ethereum transaction fees with AWS and PySpark ML": {
+            "text": [
+                "| on-chain analysis | cloud computing | machine learning |",
+                "seegithub repoandvideo presentation",
+                "I built a time series machine learning pipeline for Ethereum transactions fees. I was able to analyze a large set of data (~500 million raw transactions) by leveraging the processing power of AWS EMR clusters and an efficient Spark framework.",
+                "The end-to-end pipeline consists of custom wrappers built on Spark ML's transformer class. I wrote custom functions for train-test-splitting and hyperparameter tuning and got significant improvements in forecast accuracy over the baseline model."
+            ],
+            "links": [
+                {
+                    "text": "github repo",
+                    "url": "https://github.com/mingxuan-he/eth-fee-time-series"
+                },
+                {
+                    "text": "video presentation",
+                    "url": "https://drive.google.com/file/d/1bUHGYwtogJTXzc1PtfLgy_Bsl_zYpgZa/view?usp=sharing"
+                }
+            ]
+        },
+        "A quantitative analysis of Maker (MKR)": {
+            "text": [
+                "| quantitative finance | DeFi |",
+                "(seeresearch reportandthread)",
+                "I took a quantitative research approach adopted from Liu and Tsyvinski (2021) to study MKR returns on different time scales.",
+                "I analyzed the predictive power of various factors including other crypto, momentum, macro indicators, Internet search trends, and network fundamentals. Then I discussed an effective trading strategy using a combination of technical and fundamental signals."
+            ],
+            "links": [
+                {
+                    "text": "research report",
+                    "url": "https://drive.google.com/file/d/1-CPcANp4NJxxyAsbVCLfaAvYLoGqkqLk/view?usp=sharing"
+                },
+                {
+                    "text": "thread",
+                    "url": "https://twitter.com/MingXDynasty/status/1559651968594849793"
+                }
+            ]
+        },
+        "Other Projects": {
+            "text": [
+                "A variety of projects I have completed for coursework or out of pure interest. Topicsrange from varies fields in economics, Web3, and finance."
+            ],
+            "links": []
+        },
+        "Benchmarking multi-agent reinforcement learning models with evolutionary games on complex networks": {
+            "text": [
+                "| distributed systems |networkanalysis| game theory |",
+                "(seepublished paperandconference presentation)",
+                "How did we selfish humans learn to cooperate and form stable social structures? What happens if some of us don't cooperate?",
+                "I led a student research group to study the phenomenon of network cascading failures induced by agents' failure to cooperate in the Prisoner's dilemma game. Westudied how network topology and evolutionary parameters affect cooperative behaviors.",
+                "My main contributions includedesigningand developingmulti-agent systems inPythonusingnetworkx;conduct controlled experiments using computer simulations;analyzed and visualized data withpandas."
+            ],
+            "links": [
+                {
+                    "text": "published paper",
+                    "url": "https://doi.org/10.1007/978-3-030-93413-2_31"
+                },
+                {
+                    "text": "conference presentation",
+                    "url": "https://drive.google.com/file/d/1cbrRmsAika39vcEwrRz_9jW7EnE8mKX1/view?usp=sharing"
+                }
+            ]
+        },
+        "numericspackage and gradient descent": {
+            "text": [
+                "|numericalanalysis | gradient descent| Python |",
+                "(seegithub repoandresearch paper with mathproofs)",
+                "I wrote from scratch a Python package containing 18 numerical algorithms for root finding, matrix decomposition, interpolation, and optimization.",
+                "Then I studied the gradient descent algorithm from a numerical analysis perspective. Highlight: an independent proof for the existence of an optimal step size under the Wolfe conditions.",
+                "I illustrated my gradient descent algorithm with constrained utility maximization problems with the Lagrange multiplier method."
+            ],
+            "links": [
+                {
+                    "text": "github repo",
+                    "url": "https://github.com/mingxuan-he/Numerical_Analysis"
+                },
+                {
+                    "text": "research paper with mathproofs",
+                    "url": "https://drive.google.com/file/d/1U-n0P-W-JD6qsjVs7CkZopBNfKuJG7oS/view?usp=sharing"
+                }
+            ]
+        },
+        "Game theoretic models of the zero-commission \u00a0 \u00a0 brokerage war": {
+            "text": [
+                "|game theory | finance |",
+                "(seeshort paper)",
+                "I proposed three game-theoretic models for the strategic interactions in the zero-commissions war among major U.S. stock brokerages:",
+                "A repeated Prisoner's Dilemma modelA collective-action modelAn asymmetric-information signaling model"
+            ],
+            "links": [
+                {
+                    "text": "short paper",
+                    "url": "https://drive.google.com/file/d/1R1AWYk8BVDCril-2PbNdNWLHv_f_Xfl1/view?usp=sharing"
+                }
+            ]
+        },
+        "Work from home or slack from home?": {
+            "text": [
+                "econometrics |machine learning | labor",
+                "(seeresearch paper)",
+                "We analyzed the effects of WFH on labor productivity from a previous field experiment with selection bias.",
+                "We used double machine learning (DML) models to estimate heterogeneous treatment effects across time. Our results suggested that that WFH has a significant positive effect on those who self-select into it, and supported hybrid or optional WFH policies."
+            ],
+            "links": [
+                {
+                    "text": "research paper",
+                    "url": "https://drive.google.com/file/d/1UxWbpU628ArYR7f69P4aV90jBprKCcoq/view?usp=drive_link"
+                }
+            ]
+        },
+        "Does FDI substitute or complement services exports? A case study of the U.S. financial sector": {
+            "text": [
+                "econometrics | finance | international trade",
+                "(seeresearch paper)",
+                "I studied the relationship between outward foreign direct investment (FDI) and services export using data from the U.S. financial sector.",
+                "I used macro-level data with a panel regression model and found that the volume of U.S. financial and insurance services export to a country respond positively to U.S. FDI in that country's financial sector."
+            ],
+            "links": [
+                {
+                    "text": "research paper",
+                    "url": "https://drive.google.com/file/d/1lKG6pMOivMADqgMtuIC9Qv8qr338KXbL/view?usp=sharing"
+                }
+            ]
+        },
+        "An impact evaluation of RUFIP Ethiopia from the effects of SCCU Establishment": {
+            "text": [
+                "econometrics | finance | global development",
+                "(seeresearch paper)",
+                "In this study, I evaluated the impact of the Rural Financial Intermediation Programme (RUFIP) on key financial outcomes of poor households in rural Ethiopia.",
+                "Exploiting a time difference between which savings and credit cooperative unions (SCCUs) were established under RUFIP, I constructed a difference-in-differences empirical model, controlling for household fixed effects."
+            ],
+            "links": [
+                {
+                    "text": "research paper",
+                    "url": "https://drive.google.com/file/d/1Ukf50cC-unvMoHCFYzFV-874SHFM2l6X/view?usp=sharing"
+                }
+            ]
+        },
+        "A deep dive into Uniswap": {
+            "text": [
+                "| investment analysis | DeFi |",
+                "(seepitch slidesandthread)",
+                "As the final project inBlockbeam's Gateway to DeFiprogram, my teamtook a deep dive into the Uniswap protocol including its history, tokenomics, competitors, key metrics, risk factors.",
+                "We worked with the research team atCoin Metricsand used their data. Our pitch for a bullish thesis on UNI won 3rd place in the pitch competition on closing night."
+            ],
+            "links": [
+                {
+                    "text": "pitch slides",
+                    "url": "https://docs.google.com/presentation/d/1MErHchT5hMVBS49U_y8DVdQ75CxpjhJUDIRjp6gybsI/edit?usp=sharing"
+                },
+                {
+                    "text": "thread",
+                    "url": "https://twitter.com/BlockBeamio/status/1549025038006771712"
+                },
+                {
+                    "text": "Blockbeam's Gateway to DeFi",
+                    "url": "https://www.blockbeam.io/programs/gateway-to-defi"
+                },
+                {
+                    "text": "Coin Metrics",
+                    "url": "https://coinmetrics.io/"
+                }
+            ]
+        },
+        "Early modern currencies and monetary systems: a west vs east comparison": {
+            "text": [
+                "global economic history |Scalar",
+                "(seeScalar webpage)",
+                "I studied the role of paper vs. metal currencies in 15-18th century Britain and China, then discussed implications for modern day monetary policies and digital currencies. Presented with aScalarwebpage."
+            ],
+            "links": [
+                {
+                    "text": "Scalar webpage",
+                    "url": "https://whentheworldbecameglobal.sites.grinnell.edu/early-modern-currencies/mingxuan-he"
+                }
+            ]
+        }
+    },
+    "writings": {
+        "Writings": {
+            "text": [],
+            "links": []
+        },
+        "My Research & DataSci Internship at Nethermind": {
+            "text": [],
+            "links": [
+                {
+                    "text": "My Research & DataSci Internship at Nethermind",
+                    "url": "https://medium.com/@mingxuanh/my-research-datasci-internship-at-nethermind-150ac6fd2125"
+                }
+            ]
+        },
+        "How liquid are LSDs, really?": {
+            "text": [],
+            "links": [
+                {
+                    "text": "How liquid are LSDs, really?",
+                    "url": "https://medium.com/@mingxuanh/how-liquid-are-lsds-really-a3d9c868dbe9"
+                }
+            ]
+        },
+        "Introducing M-FARM: A quantitative trading algorithm for psychic crypto traders": {
+            "text": [],
+            "links": [
+                {
+                    "text": "Introducing M-FARM: A quantitative trading algorithm for psychic crypto traders",
+                    "url": "https://typefully.com/MingXDynasty/m-farm-trading-algorithm-for-psychic-traders-0zSizM6"
+                }
+            ]
+        },
+        "Explaining adverse selection in DeFi lending": {
+            "text": [],
+            "links": [
+                {
+                    "text": "Explaining adverse selection in DeFi lending",
+                    "url": "https://typefully.com/MingXDynasty/adverse-selection-in-defi-lending-IOkJ1Qt"
+                }
+            ]
+        },
+        "The Blockbeam Experience: Mingxuan He(Aninterview)": {
+            "text": [],
+            "links": [
+                {
+                    "text": "The Blockbeam Experience: Mingxuan He(Aninterview)",
+                    "url": "https://medium.com/@BlockBeamio/the-blockbeam-experience-mingxuan-he-31b744c4f65f"
+                }
+            ]
+        },
+        "A quantitative analysis of MKR": {
+            "text": [],
+            "links": [
+                {
+                    "text": "A quantitative analysis of MKR",
+                    "url": "https://typefully.com/MingXDynasty/mkr-research-project-showcase-goNbqpy"
+                }
+            ]
+        },
+        "Which use cases of crypto actually provide economic value?": {
+            "text": [],
+            "links": [
+                {
+                    "text": "Which use cases of crypto actually provide economic value?",
+                    "url": "https://twitter.com/MingXDynasty/status/1549131017402851338"
+                }
+            ]
+        }
+    },
+    "resources": {
+        "Resources forWeb3 Data Science & Quantitative Research (WIP)": {
+            "text": [],
+            "links": []
+        },
+        "Table of Contents": {
+            "text": [],
+            "links": []
+        },
+        "About This Page": {
+            "text": [
+                "As a public good for open research, I maintain a curated list of resources for learning and researching the quantitative aspects of Web3 and DeFi.",
+                "This list caters to researchers, analysts, enthusiasts, and students who are interested in these fields. Whether you're just starting your journey or looking to delve deeper, I trust you'll find value in the following sections.",
+                "A few things to note:",
+                "I order items in each section by difficulty level / knowledge prereq, from basic explanatory material to advanced, research-focused sources.I only list 1. resources I've personally usedand2. resources that are free / open source (except a few textbooks)I try to maintain a diverse set of formats (long and short text, video/audio, courses, threads, etc.)Educational use only -- not product endorsement / financial advice",
+                "This page is work in progress. Feedbacks/suggestions are welcomed! (dm me on Twitter or Telegram @MingXDynasty) If I accept a suggestion I will add you to the contributor list.",
+                "Contributors: Mingxuan He",
+                "Last update: 07/23/2023"
+            ],
+            "links": []
+        },
+        "Web3 Basics": {
+            "text": [
+                "",
+                "Coinbase Crypto Basics: Basic glossary for the absolute beginnerOdysseyDAO's Intro to Web3: Hands-on guides for setting up wallets, basic transactions, etc.Whiteboard Crypto youtube channel: 10-minute illustrated videos covering basic crypto/blockchain concepts like \"what is a blockchain\", \"what is DeFi\", \"what is Uniswap\", \"what is a DAO\", etc."
+            ],
+            "links": [
+                {
+                    "text": "Coinbase Crypto Basics",
+                    "url": "https://www.coinbase.com/learn/crypto-basics"
+                },
+                {
+                    "text": "OdysseyDAO's Intro to Web3",
+                    "url": "https://www.cryptostudyhall.xyz/pathways/intro-to-web3"
+                },
+                {
+                    "text": "Whiteboard Crypto youtube channel",
+                    "url": "https://www.youtube.com/@WhiteboardCrypto"
+                }
+            ]
+        },
+        "Decentralized Finance (DeFi)": {
+            "text": [
+                "",
+                "Finematics youtube channel: Introductory videos to DeFi mechanisms and tokensDeFi MOOCby Stanford & Berkeley RDI: Great overview course on DeFiMessari research: Quarterly protocol reports (due-diligence type overview) -they might be paid by the protocol@TheDeFiEdge,@DeFi_Cheetah: Twitter threadoors covering protocol deep-dives, news, etc. Good accounts to follow for those new to crypto twitterAlex Nezlobin (@0x94305): Threadoor for more advanced / technical DeFi audiencePolygon DeFi research blog: Some deep dives into derivative protocols and ecosystemGauntlet research: Hard-core quantitative research on DeFi incentive & mechanism design, tokenomics, and risks",
+                "MOST IMPORTANTLY: READ THE WHITEPAPERS"
+            ],
+            "links": [
+                {
+                    "text": "Finematics youtube channel",
+                    "url": "https://www.youtube.com/c/Finematics"
+                },
+                {
+                    "text": "DeFi MOOC",
+                    "url": "https://defi-learning.org/"
+                },
+                {
+                    "text": "Messari research",
+                    "url": "https://messari.io/research"
+                },
+                {
+                    "text": "@TheDeFiEdge",
+                    "url": "https://twitter.com/thedefiedge"
+                },
+                {
+                    "text": "@DeFi_Cheetah",
+                    "url": "https://twitter.com/DeFi_Cheetah"
+                },
+                {
+                    "text": "Alex Nezlobin (@0x94305",
+                    "url": "https://twitter.com/0x94305"
+                },
+                {
+                    "text": "Polygon DeFi research blog",
+                    "url": "https://polygontech.medium.com/"
+                },
+                {
+                    "text": "Gauntlet research",
+                    "url": "https://www.gauntlet.xyz/resources"
+                }
+            ]
+        },
+        "Data Sources / On-Chain Analysis Tools": {
+            "text": [
+                "",
+                "For a survey and guide for on-chain data sources and tools check out this great guide by Xin Wan and Gordon Liao from Uniswap:On-chain data science guide, queries, and tools",
+                "CoinMarketCap: Aggregate stats for tokens, good for studying ecosystems like LSDs, gaming, etc.Etherscan(or any other block scanner): Tracking specific transactions / wallets / contractsDefiLlama: Aggregate data for DeFi projects / tokens. Best for: token usage / TVL, yieldsDune Analytics: Currently the best site for queryable databases and community dashboards, but other options likeFlipsideandFootprintare increasingly viable too. Some good Dune accounts to check out (fork queries from):Sixdegree LabsBlockworks ResearchMessari API/CoinGecko API: Free APIs for (historical) crypto prices, market data metrics, on-chain metrics, and qualitative informationFRED: TradFi / Macroeconomic data including interest rates, inflation, real GDP growth, etc.Subgraphs onThe Graph: Indexing of unique data beyond event emits. See this tutorial here:GraphQL Walkthrough: How to Query CryptoBlockchain-ETL Public Data: BigQuery-compatible, low-level ETL data for Ethereum and Polygon.AWS Public Blockchain Data: low-level transactions data for Bitcoin and Ethereum."
+            ],
+            "links": [
+                {
+                    "text": "On-chain data science guide, queries, and tools",
+                    "url": "https://github.com/Uniswap/ds-tools"
+                },
+                {
+                    "text": "CoinMarketCap",
+                    "url": "https://coinmarketcap.com/"
+                },
+                {
+                    "text": "Etherscan",
+                    "url": "https://etherscan.io/"
+                },
+                {
+                    "text": "DefiLlama",
+                    "url": "https://defillama.com/"
+                },
+                {
+                    "text": "Dune Analytics",
+                    "url": "https://dune.com/home"
+                },
+                {
+                    "text": "Flipside",
+                    "url": "https://flipsidecrypto.xyz/"
+                },
+                {
+                    "text": "Footprint",
+                    "url": "https://www.footprint.network/"
+                },
+                {
+                    "text": "Sixdegree Labs",
+                    "url": "https://dune.com/sixdegree"
+                },
+                {
+                    "text": "Blockworks Research",
+                    "url": "https://dune.com/blockworks_research"
+                },
+                {
+                    "text": "Messari API",
+                    "url": "https://messari.io/api/docs"
+                },
+                {
+                    "text": "CoinGecko API",
+                    "url": "https://www.coingecko.com/en/api/documentation"
+                },
+                {
+                    "text": "FRED",
+                    "url": "https://fred.stlouisfed.org/"
+                },
+                {
+                    "text": "The Graph",
+                    "url": "https://thegraph.com/"
+                },
+                {
+                    "text": "GraphQL Walkthrough: How to Query Crypto",
+                    "url": "https://towardsdatascience.com/graphql-walkthrough-how-to-query-crypto-with-uniswap-defi-e0cbe2035290"
+                },
+                {
+                    "text": "Blockchain-ETL Public Data",
+                    "url": "https://github.com/blockchain-etl"
+                },
+                {
+                    "text": "AWS Public Blockchain Data",
+                    "url": "https://registry.opendata.aws/aws-public-blockchain/"
+                }
+            ]
+        },
+        "Machine Learning / Statistics": {
+            "text": [
+                "",
+                "Khan Academy's Intro to Statistics,Intro to Calculus,Intro to Linear Algebra: Beginner math foundations for data science / ML.For a more challenging linear algebra class check outMIT's 18.06 by Gilbert StrangW3Schools Python Tutorial: Beginner tutorials in Python, the standard language for ML / data science / quantitative research",
+                "UC Berkeley's Data 100 Course: Open course covering intro-level techniques for ML/DS in Python and some SQL. (update: they recently made a lot of recordings private but most slides and code are still publicly available)",
+                "Deeplearning.ai's Machine Learning SpecializationandDeep Learning Specialization: Best online courses for ML, period. Andrew Ng is a legend. The entire sequence would require significant time commitment but worth it imoThe Elements of Statistical Learning: Stanford textbook covering low-level (math heavy) machine learning concepts. Good for advanced undergrad / grad students with solid math & stats foundation (intro-level real analysis / measure theory recommended)"
+            ],
+            "links": [
+                {
+                    "text": "Khan Academy's Intro to Statistics",
+                    "url": "https://www.khanacademy.org/math/statistics-probability"
+                },
+                {
+                    "text": "Intro to Calculus",
+                    "url": "https://www.khanacademy.org/math/calculus-1"
+                },
+                {
+                    "text": "Intro to Linear Algebra",
+                    "url": "https://www.khanacademy.org/math/linear-algebra"
+                },
+                {
+                    "text": "MIT's 18.06 by Gilbert Strang",
+                    "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
+                },
+                {
+                    "text": "W3Schools Python Tutorial",
+                    "url": "https://www.w3schools.com/python/default.asp"
+                },
+                {
+                    "text": "UC Berkeley's Data 100 Course",
+                    "url": "https://ds100.org/"
+                },
+                {
+                    "text": "Deeplearning.ai's Machine Learning Specialization",
+                    "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+                },
+                {
+                    "text": "Deep Learning Specialization",
+                    "url": "https://www.coursera.org/specializations/deep-learning"
+                },
+                {
+                    "text": "The Elements of Statistical Learning",
+                    "url": "https://hastie.su.domains/Papers/ESLII.pdf"
+                }
+            ]
+        },
+        "Learning & Research Communities": {
+            "text": [
+                "",
+                "",
+                "Metrics DAO: DAO for Web3 data analysts. They offer a freeWeb3 Analytics 101course using Dune/Flipside. Analysis bounties availableToken Engineering Commons: Community of token engineers and cryptoeconomic researchers. They offer a freecourse sequence on token engineering.QuantEcon: Open source learning and development community for quantitative economics. Open courses available from advanced undergrad to PhD level. Code packages available in Python / Julia.",
+                "",
+                "Crypto and Blockchain Economic Research (CBER) ForumMIT Cryptoeconomic Systems Journal & ConferenceTokenomics - International Conference on Blockchain Economics, Security, and ProtocolsScience of Blockchain ConferenceACM DeFi WorkshopFinancial CryptographySeminar series on Central Banking and Digital Currencies"
+            ],
+            "links": [
+                {
+                    "text": "Metrics DAO",
+                    "url": "https://twitter.com/MetricsDAO"
+                },
+                {
+                    "text": "Web3 Analytics 101",
+                    "url": "https://metrics-dao.teachable.com/p/web-analytics-101"
+                },
+                {
+                    "text": "Token Engineering Commons",
+                    "url": "https://tecommons.org/"
+                },
+                {
+                    "text": "course sequence on token engineering",
+                    "url": "https://tokenengineering.net/explore/"
+                },
+                {
+                    "text": "QuantEcon",
+                    "url": "https://quantecon.org/projects/"
+                },
+                {
+                    "text": "Crypto and Blockchain Economic Research (CBER) Forum",
+                    "url": "https://www.cber-forum.org/"
+                },
+                {
+                    "text": "MIT Cryptoeconomic Systems Journal & Conference",
+                    "url": "https://dci.mit.edu/cryptoeconomicsystems"
+                },
+                {
+                    "text": "Tokenomics - International Conference on Blockchain Economics, Security, and Protocols",
+                    "url": "https://tokenomics2023.splashthat.com/"
+                },
+                {
+                    "text": "Science of Blockchain Conference",
+                    "url": "https://cbr.stanford.edu/"
+                },
+                {
+                    "text": "ACM DeFi Workshop",
+                    "url": "https://defi.security/"
+                },
+                {
+                    "text": "Financial Cryptography",
+                    "url": "https://ifca.ai/"
+                },
+                {
+                    "text": "Seminar series on Central Banking and Digital Currencies",
+                    "url": "https://www.cbanddc.net/"
+                }
+            ]
+        },
+        "Advanced Topics": {
+            "text": [
+                "",
+                "",
+                "mesa library for ABM",
+                "",
+                "Textbook by Noam and Roughgarden",
+                "",
+                "Textbook by Vega-Redondo",
+                "",
+                "The ABCs of RBCs by McCandlessRecursive Macroeconomic Theory by Ljungvist and Sargent",
+                "",
+                "i.e.computational finance, financial engineering",
+                "Topics in Mathematics with Applications in Finance- MIT Open Courseware",
+                "",
+                "Textbook by Szepesvari",
+                "",
+                "The State of Zero-Knowledge Machine Learning (zkML)by Spectral.fiModulus LabsAxiom"
+            ],
+            "links": [
+                {
+                    "text": "mesa library for ABM",
+                    "url": "https://mesa.readthedocs.io/en/stable/"
+                },
+                {
+                    "text": "Textbook by Noam and Roughgarden",
+                    "url": "https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf"
+                },
+                {
+                    "text": "Textbook by Vega-Redondo",
+                    "url": "https://www.cambridge.org/core/books/complex-social-networks/E40B66A7105D6E4CEEF5F7025B018954"
+                },
+                {
+                    "text": "The ABCs of RBCs by McCandless",
+                    "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674028142"
+                },
+                {
+                    "text": "Recursive Macroeconomic Theory by Ljungvist and Sargent",
+                    "url": "https://mitpress.mit.edu/9780262038669/recursive-macroeconomic-theory/"
+                },
+                {
+                    "text": "Topics in Mathematics with Applications in Finance",
+                    "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
+                },
+                {
+                    "text": "Textbook by Szepesvari",
+                    "url": "https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf"
+                },
+                {
+                    "text": "The State of Zero-Knowledge Machine Learning (zkML)",
+                    "url": "https://blog.spectral.finance/the-state-of-zero-knowledge-machine-learning-zkml/"
+                },
+                {
+                    "text": "Modulus Labs",
+                    "url": "https://www.moduluslabs.xyz/"
+                },
+                {
+                    "text": "Axiom",
+                    "url": "https://www.axiom.xyz/blog"
+                }
+            ]
+        },
+        "Research Papers": {
+            "text": [
+                "",
+                "Here're some high-impact papers related to Web3 & cryptocurrencies by subject. For a more complete list ofpublishedpapers check outCBER's Blockchain Literature Catalog.",
+                "",
+                "\"Is Bitcoin a real currency? An Economic Appraisal\" by Yermack",
+                "\"Some Simple Bitcoin Economics\" by Schilling and Uhlig\"The Economic Limits of Bitcoin and Anonymous, Decentralized Trust on the Blockchain\" by Eric Budish\"Some Simple Economics of the Blockchain\" by Catalini and Gans\"Blockchain without Waste: Proof-of-Stake\" by Saleh\"Tokenomics: Dynamic Adoption and Valuation\" by Cong, Li, and Wang",
+                "",
+                "\"Risks and Returns of Cryptocurrency\" by Liu and Tsyvinski\"Trading and Arbitrage in Cryptocurrency Markets\" by Makarov and Schoar\"Is Bitcoin really untethered?\" by Griffin and Shams\"Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?\" by Foley, Karlsen, and Putnins\"Initial Coin Offerings: Financing Growth with Cryptocurrency Token Sales\" by Howell, Niessner, and Yermack",
+                "",
+                "\"Improved Price Oracles: Constant Function Market Makers\" by Angeris and Chitra",
+                "\"Automated Market Making and Loss-Versus-Rebalancing\" by Milionis, Moallemi, Roughgarden, and Zhang"
+            ],
+            "links": [
+                {
+                    "text": "CBER's Blockchain Literature Catalog",
+                    "url": "https://www.cber-forum.org/literature"
+                }
+            ]
+        },
+        "At some point it's better to just create a wallet and start experiencing": {
+            "text": [
+                "Coinbase Crypto Basics: Basic glossary for the absolute beginnerOdysseyDAO's Intro to Web3: Hands-on guides for setting up wallets, basic transactions, etc.Whiteboard Crypto youtube channel: 10-minute illustrated videos covering basic crypto/blockchain concepts like \"what is a blockchain\", \"what is DeFi\", \"what is Uniswap\", \"what is a DAO\", etc."
+            ],
+            "links": [
+                {
+                    "text": "Coinbase Crypto Basics",
+                    "url": "https://www.coinbase.com/learn/crypto-basics"
+                },
+                {
+                    "text": "OdysseyDAO's Intro to Web3",
+                    "url": "https://www.cryptostudyhall.xyz/pathways/intro-to-web3"
+                },
+                {
+                    "text": "Whiteboard Crypto youtube channel",
+                    "url": "https://www.youtube.com/@WhiteboardCrypto"
+                }
+            ]
+        },
+        "The deepest rabbit hole and where the fun's at": {
+            "text": [
+                "Finematics youtube channel: Introductory videos to DeFi mechanisms and tokensDeFi MOOCby Stanford & Berkeley RDI: Great overview course on DeFiMessari research: Quarterly protocol reports (due-diligence type overview) -they might be paid by the protocol@TheDeFiEdge,@DeFi_Cheetah: Twitter threadoors covering protocol deep-dives, news, etc. Good accounts to follow for those new to crypto twitterAlex Nezlobin (@0x94305): Threadoor for more advanced / technical DeFi audiencePolygon DeFi research blog: Some deep dives into derivative protocols and ecosystemGauntlet research: Hard-core quantitative research on DeFi incentive & mechanism design, tokenomics, and risks",
+                "MOST IMPORTANTLY: READ THE WHITEPAPERS"
+            ],
+            "links": [
+                {
+                    "text": "Finematics youtube channel",
+                    "url": "https://www.youtube.com/c/Finematics"
+                },
+                {
+                    "text": "DeFi MOOC",
+                    "url": "https://defi-learning.org/"
+                },
+                {
+                    "text": "Messari research",
+                    "url": "https://messari.io/research"
+                },
+                {
+                    "text": "@TheDeFiEdge",
+                    "url": "https://twitter.com/thedefiedge"
+                },
+                {
+                    "text": "@DeFi_Cheetah",
+                    "url": "https://twitter.com/DeFi_Cheetah"
+                },
+                {
+                    "text": "Alex Nezlobin (@0x94305",
+                    "url": "https://twitter.com/0x94305"
+                },
+                {
+                    "text": "Polygon DeFi research blog",
+                    "url": "https://polygontech.medium.com/"
+                },
+                {
+                    "text": "Gauntlet research",
+                    "url": "https://www.gauntlet.xyz/resources"
+                }
+            ]
+        },
+        "Data does not lie, at least until people have analyzed it": {
+            "text": [
+                "For a survey and guide for on-chain data sources and tools check out this great guide by Xin Wan and Gordon Liao from Uniswap:On-chain data science guide, queries, and tools",
+                "CoinMarketCap: Aggregate stats for tokens, good for studying ecosystems like LSDs, gaming, etc.Etherscan(or any other block scanner): Tracking specific transactions / wallets / contractsDefiLlama: Aggregate data for DeFi projects / tokens. Best for: token usage / TVL, yieldsDune Analytics: Currently the best site for queryable databases and community dashboards, but other options likeFlipsideandFootprintare increasingly viable too. Some good Dune accounts to check out (fork queries from):Sixdegree LabsBlockworks ResearchMessari API/CoinGecko API: Free APIs for (historical) crypto prices, market data metrics, on-chain metrics, and qualitative informationFRED: TradFi / Macroeconomic data including interest rates, inflation, real GDP growth, etc.Subgraphs onThe Graph: Indexing of unique data beyond event emits. See this tutorial here:GraphQL Walkthrough: How to Query CryptoBlockchain-ETL Public Data: BigQuery-compatible, low-level ETL data for Ethereum and Polygon.AWS Public Blockchain Data: low-level transactions data for Bitcoin and Ethereum."
+            ],
+            "links": [
+                {
+                    "text": "On-chain data science guide, queries, and tools",
+                    "url": "https://github.com/Uniswap/ds-tools"
+                },
+                {
+                    "text": "CoinMarketCap",
+                    "url": "https://coinmarketcap.com/"
+                },
+                {
+                    "text": "Etherscan",
+                    "url": "https://etherscan.io/"
+                },
+                {
+                    "text": "DefiLlama",
+                    "url": "https://defillama.com/"
+                },
+                {
+                    "text": "Dune Analytics",
+                    "url": "https://dune.com/home"
+                },
+                {
+                    "text": "Flipside",
+                    "url": "https://flipsidecrypto.xyz/"
+                },
+                {
+                    "text": "Footprint",
+                    "url": "https://www.footprint.network/"
+                },
+                {
+                    "text": "Sixdegree Labs",
+                    "url": "https://dune.com/sixdegree"
+                },
+                {
+                    "text": "Blockworks Research",
+                    "url": "https://dune.com/blockworks_research"
+                },
+                {
+                    "text": "Messari API",
+                    "url": "https://messari.io/api/docs"
+                },
+                {
+                    "text": "CoinGecko API",
+                    "url": "https://www.coingecko.com/en/api/documentation"
+                },
+                {
+                    "text": "FRED",
+                    "url": "https://fred.stlouisfed.org/"
+                },
+                {
+                    "text": "The Graph",
+                    "url": "https://thegraph.com/"
+                },
+                {
+                    "text": "GraphQL Walkthrough: How to Query Crypto",
+                    "url": "https://towardsdatascience.com/graphql-walkthrough-how-to-query-crypto-with-uniswap-defi-e0cbe2035290"
+                },
+                {
+                    "text": "Blockchain-ETL Public Data",
+                    "url": "https://github.com/blockchain-etl"
+                },
+                {
+                    "text": "AWS Public Blockchain Data",
+                    "url": "https://registry.opendata.aws/aws-public-blockchain/"
+                }
+            ]
+        },
+        "Have to go through all the math, unfortunately": {
+            "text": [
+                "Khan Academy's Intro to Statistics,Intro to Calculus,Intro to Linear Algebra: Beginner math foundations for data science / ML.For a more challenging linear algebra class check outMIT's 18.06 by Gilbert StrangW3Schools Python Tutorial: Beginner tutorials in Python, the standard language for ML / data science / quantitative research",
+                "UC Berkeley's Data 100 Course: Open course covering intro-level techniques for ML/DS in Python and some SQL. (update: they recently made a lot of recordings private but most slides and code are still publicly available)",
+                "Deeplearning.ai's Machine Learning SpecializationandDeep Learning Specialization: Best online courses for ML, period. Andrew Ng is a legend. The entire sequence would require significant time commitment but worth it imoThe Elements of Statistical Learning: Stanford textbook covering low-level (math heavy) machine learning concepts. Good for advanced undergrad / grad students with solid math & stats foundation (intro-level real analysis / measure theory recommended)"
+            ],
+            "links": [
+                {
+                    "text": "Khan Academy's Intro to Statistics",
+                    "url": "https://www.khanacademy.org/math/statistics-probability"
+                },
+                {
+                    "text": "Intro to Calculus",
+                    "url": "https://www.khanacademy.org/math/calculus-1"
+                },
+                {
+                    "text": "Intro to Linear Algebra",
+                    "url": "https://www.khanacademy.org/math/linear-algebra"
+                },
+                {
+                    "text": "MIT's 18.06 by Gilbert Strang",
+                    "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
+                },
+                {
+                    "text": "W3Schools Python Tutorial",
+                    "url": "https://www.w3schools.com/python/default.asp"
+                },
+                {
+                    "text": "UC Berkeley's Data 100 Course",
+                    "url": "https://ds100.org/"
+                },
+                {
+                    "text": "Deeplearning.ai's Machine Learning Specialization",
+                    "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+                },
+                {
+                    "text": "Deep Learning Specialization",
+                    "url": "https://www.coursera.org/specializations/deep-learning"
+                },
+                {
+                    "text": "The Elements of Statistical Learning",
+                    "url": "https://hastie.su.domains/Papers/ESLII.pdf"
+                }
+            ]
+        },
+        "Join the smartest people": {
+            "text": [
+                "",
+                "Metrics DAO: DAO for Web3 data analysts. They offer a freeWeb3 Analytics 101course using Dune/Flipside. Analysis bounties availableToken Engineering Commons: Community of token engineers and cryptoeconomic researchers. They offer a freecourse sequence on token engineering.QuantEcon: Open source learning and development community for quantitative economics. Open courses available from advanced undergrad to PhD level. Code packages available in Python / Julia.",
+                "",
+                "Crypto and Blockchain Economic Research (CBER) ForumMIT Cryptoeconomic Systems Journal & ConferenceTokenomics - International Conference on Blockchain Economics, Security, and ProtocolsScience of Blockchain ConferenceACM DeFi WorkshopFinancial CryptographySeminar series on Central Banking and Digital Currencies"
+            ],
+            "links": [
+                {
+                    "text": "Metrics DAO",
+                    "url": "https://twitter.com/MetricsDAO"
+                },
+                {
+                    "text": "Web3 Analytics 101",
+                    "url": "https://metrics-dao.teachable.com/p/web-analytics-101"
+                },
+                {
+                    "text": "Token Engineering Commons",
+                    "url": "https://tecommons.org/"
+                },
+                {
+                    "text": "course sequence on token engineering",
+                    "url": "https://tokenengineering.net/explore/"
+                },
+                {
+                    "text": "QuantEcon",
+                    "url": "https://quantecon.org/projects/"
+                },
+                {
+                    "text": "Crypto and Blockchain Economic Research (CBER) Forum",
+                    "url": "https://www.cber-forum.org/"
+                },
+                {
+                    "text": "MIT Cryptoeconomic Systems Journal & Conference",
+                    "url": "https://dci.mit.edu/cryptoeconomicsystems"
+                },
+                {
+                    "text": "Tokenomics - International Conference on Blockchain Economics, Security, and Protocols",
+                    "url": "https://tokenomics2023.splashthat.com/"
+                },
+                {
+                    "text": "Science of Blockchain Conference",
+                    "url": "https://cbr.stanford.edu/"
+                },
+                {
+                    "text": "ACM DeFi Workshop",
+                    "url": "https://defi.security/"
+                },
+                {
+                    "text": "Financial Cryptography",
+                    "url": "https://ifca.ai/"
+                },
+                {
+                    "text": "Seminar series on Central Banking and Digital Currencies",
+                    "url": "https://www.cbanddc.net/"
+                }
+            ]
+        },
+        "Communities": {
+            "text": [
+                "Metrics DAO: DAO for Web3 data analysts. They offer a freeWeb3 Analytics 101course using Dune/Flipside. Analysis bounties availableToken Engineering Commons: Community of token engineers and cryptoeconomic researchers. They offer a freecourse sequence on token engineering.QuantEcon: Open source learning and development community for quantitative economics. Open courses available from advanced undergrad to PhD level. Code packages available in Python / Julia.",
+                "",
+                "Crypto and Blockchain Economic Research (CBER) ForumMIT Cryptoeconomic Systems Journal & ConferenceTokenomics - International Conference on Blockchain Economics, Security, and ProtocolsScience of Blockchain ConferenceACM DeFi WorkshopFinancial CryptographySeminar series on Central Banking and Digital Currencies"
+            ],
+            "links": [
+                {
+                    "text": "Metrics DAO",
+                    "url": "https://twitter.com/MetricsDAO"
+                },
+                {
+                    "text": "Web3 Analytics 101",
+                    "url": "https://metrics-dao.teachable.com/p/web-analytics-101"
+                },
+                {
+                    "text": "Token Engineering Commons",
+                    "url": "https://tecommons.org/"
+                },
+                {
+                    "text": "course sequence on token engineering",
+                    "url": "https://tokenengineering.net/explore/"
+                },
+                {
+                    "text": "QuantEcon",
+                    "url": "https://quantecon.org/projects/"
+                },
+                {
+                    "text": "Crypto and Blockchain Economic Research (CBER) Forum",
+                    "url": "https://www.cber-forum.org/"
+                },
+                {
+                    "text": "MIT Cryptoeconomic Systems Journal & Conference",
+                    "url": "https://dci.mit.edu/cryptoeconomicsystems"
+                },
+                {
+                    "text": "Tokenomics - International Conference on Blockchain Economics, Security, and Protocols",
+                    "url": "https://tokenomics2023.splashthat.com/"
+                },
+                {
+                    "text": "Science of Blockchain Conference",
+                    "url": "https://cbr.stanford.edu/"
+                },
+                {
+                    "text": "ACM DeFi Workshop",
+                    "url": "https://defi.security/"
+                },
+                {
+                    "text": "Financial Cryptography",
+                    "url": "https://ifca.ai/"
+                },
+                {
+                    "text": "Seminar series on Central Banking and Digital Currencies",
+                    "url": "https://www.cbanddc.net/"
+                }
+            ]
+        },
+        "Academic conferences / workgroups": {
+            "text": [
+                "Crypto and Blockchain Economic Research (CBER) ForumMIT Cryptoeconomic Systems Journal & ConferenceTokenomics - International Conference on Blockchain Economics, Security, and ProtocolsScience of Blockchain ConferenceACM DeFi WorkshopFinancial CryptographySeminar series on Central Banking and Digital Currencies"
+            ],
+            "links": [
+                {
+                    "text": "Crypto and Blockchain Economic Research (CBER) Forum",
+                    "url": "https://www.cber-forum.org/"
+                },
+                {
+                    "text": "MIT Cryptoeconomic Systems Journal & Conference",
+                    "url": "https://dci.mit.edu/cryptoeconomicsystems"
+                },
+                {
+                    "text": "Tokenomics - International Conference on Blockchain Economics, Security, and Protocols",
+                    "url": "https://tokenomics2023.splashthat.com/"
+                },
+                {
+                    "text": "Science of Blockchain Conference",
+                    "url": "https://cbr.stanford.edu/"
+                },
+                {
+                    "text": "ACM DeFi Workshop",
+                    "url": "https://defi.security/"
+                },
+                {
+                    "text": "Financial Cryptography",
+                    "url": "https://ifca.ai/"
+                },
+                {
+                    "text": "Seminar series on Central Banking and Digital Currencies",
+                    "url": "https://www.cbanddc.net/"
+                }
+            ]
+        },
+        "Things to grind on with a good supply of caffeine": {
+            "text": [
+                "",
+                "mesa library for ABM",
+                "",
+                "Textbook by Noam and Roughgarden",
+                "",
+                "Textbook by Vega-Redondo",
+                "",
+                "The ABCs of RBCs by McCandlessRecursive Macroeconomic Theory by Ljungvist and Sargent",
+                "",
+                "i.e.computational finance, financial engineering",
+                "Topics in Mathematics with Applications in Finance- MIT Open Courseware",
+                "",
+                "Textbook by Szepesvari",
+                "",
+                "The State of Zero-Knowledge Machine Learning (zkML)by Spectral.fiModulus LabsAxiom"
+            ],
+            "links": [
+                {
+                    "text": "mesa library for ABM",
+                    "url": "https://mesa.readthedocs.io/en/stable/"
+                },
+                {
+                    "text": "Textbook by Noam and Roughgarden",
+                    "url": "https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf"
+                },
+                {
+                    "text": "Textbook by Vega-Redondo",
+                    "url": "https://www.cambridge.org/core/books/complex-social-networks/E40B66A7105D6E4CEEF5F7025B018954"
+                },
+                {
+                    "text": "The ABCs of RBCs by McCandless",
+                    "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674028142"
+                },
+                {
+                    "text": "Recursive Macroeconomic Theory by Ljungvist and Sargent",
+                    "url": "https://mitpress.mit.edu/9780262038669/recursive-macroeconomic-theory/"
+                },
+                {
+                    "text": "Topics in Mathematics with Applications in Finance",
+                    "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
+                },
+                {
+                    "text": "Textbook by Szepesvari",
+                    "url": "https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf"
+                },
+                {
+                    "text": "The State of Zero-Knowledge Machine Learning (zkML)",
+                    "url": "https://blog.spectral.finance/the-state-of-zero-knowledge-machine-learning-zkml/"
+                },
+                {
+                    "text": "Modulus Labs",
+                    "url": "https://www.moduluslabs.xyz/"
+                },
+                {
+                    "text": "Axiom",
+                    "url": "https://www.axiom.xyz/blog"
+                }
+            ]
+        },
+        "Agent-based modeling": {
+            "text": [
+                "mesa library for ABM",
+                "",
+                "Textbook by Noam and Roughgarden",
+                "",
+                "Textbook by Vega-Redondo",
+                "",
+                "The ABCs of RBCs by McCandlessRecursive Macroeconomic Theory by Ljungvist and Sargent",
+                "",
+                "i.e.computational finance, financial engineering",
+                "Topics in Mathematics with Applications in Finance- MIT Open Courseware",
+                "",
+                "Textbook by Szepesvari",
+                "",
+                "The State of Zero-Knowledge Machine Learning (zkML)by Spectral.fiModulus LabsAxiom"
+            ],
+            "links": [
+                {
+                    "text": "mesa library for ABM",
+                    "url": "https://mesa.readthedocs.io/en/stable/"
+                },
+                {
+                    "text": "Textbook by Noam and Roughgarden",
+                    "url": "https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf"
+                },
+                {
+                    "text": "Textbook by Vega-Redondo",
+                    "url": "https://www.cambridge.org/core/books/complex-social-networks/E40B66A7105D6E4CEEF5F7025B018954"
+                },
+                {
+                    "text": "The ABCs of RBCs by McCandless",
+                    "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674028142"
+                },
+                {
+                    "text": "Recursive Macroeconomic Theory by Ljungvist and Sargent",
+                    "url": "https://mitpress.mit.edu/9780262038669/recursive-macroeconomic-theory/"
+                },
+                {
+                    "text": "Topics in Mathematics with Applications in Finance",
+                    "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
+                },
+                {
+                    "text": "Textbook by Szepesvari",
+                    "url": "https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf"
+                },
+                {
+                    "text": "The State of Zero-Knowledge Machine Learning (zkML)",
+                    "url": "https://blog.spectral.finance/the-state-of-zero-knowledge-machine-learning-zkml/"
+                },
+                {
+                    "text": "Modulus Labs",
+                    "url": "https://www.moduluslabs.xyz/"
+                },
+                {
+                    "text": "Axiom",
+                    "url": "https://www.axiom.xyz/blog"
+                }
+            ]
+        },
+        "Algorithmic game theory": {
+            "text": [
+                "Textbook by Noam and Roughgarden",
+                "",
+                "Textbook by Vega-Redondo",
+                "",
+                "The ABCs of RBCs by McCandlessRecursive Macroeconomic Theory by Ljungvist and Sargent",
+                "",
+                "i.e.computational finance, financial engineering",
+                "Topics in Mathematics with Applications in Finance- MIT Open Courseware",
+                "",
+                "Textbook by Szepesvari",
+                "",
+                "The State of Zero-Knowledge Machine Learning (zkML)by Spectral.fiModulus LabsAxiom"
+            ],
+            "links": [
+                {
+                    "text": "Textbook by Noam and Roughgarden",
+                    "url": "https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf"
+                },
+                {
+                    "text": "Textbook by Vega-Redondo",
+                    "url": "https://www.cambridge.org/core/books/complex-social-networks/E40B66A7105D6E4CEEF5F7025B018954"
+                },
+                {
+                    "text": "The ABCs of RBCs by McCandless",
+                    "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674028142"
+                },
+                {
+                    "text": "Recursive Macroeconomic Theory by Ljungvist and Sargent",
+                    "url": "https://mitpress.mit.edu/9780262038669/recursive-macroeconomic-theory/"
+                },
+                {
+                    "text": "Topics in Mathematics with Applications in Finance",
+                    "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
+                },
+                {
+                    "text": "Textbook by Szepesvari",
+                    "url": "https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf"
+                },
+                {
+                    "text": "The State of Zero-Knowledge Machine Learning (zkML)",
+                    "url": "https://blog.spectral.finance/the-state-of-zero-knowledge-machine-learning-zkml/"
+                },
+                {
+                    "text": "Modulus Labs",
+                    "url": "https://www.moduluslabs.xyz/"
+                },
+                {
+                    "text": "Axiom",
+                    "url": "https://www.axiom.xyz/blog"
+                }
+            ]
+        },
+        "Complex networks": {
+            "text": [
+                "Textbook by Vega-Redondo",
+                "",
+                "The ABCs of RBCs by McCandlessRecursive Macroeconomic Theory by Ljungvist and Sargent",
+                "",
+                "i.e.computational finance, financial engineering",
+                "Topics in Mathematics with Applications in Finance- MIT Open Courseware",
+                "",
+                "Textbook by Szepesvari",
+                "",
+                "The State of Zero-Knowledge Machine Learning (zkML)by Spectral.fiModulus LabsAxiom"
+            ],
+            "links": [
+                {
+                    "text": "Textbook by Vega-Redondo",
+                    "url": "https://www.cambridge.org/core/books/complex-social-networks/E40B66A7105D6E4CEEF5F7025B018954"
+                },
+                {
+                    "text": "The ABCs of RBCs by McCandless",
+                    "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674028142"
+                },
+                {
+                    "text": "Recursive Macroeconomic Theory by Ljungvist and Sargent",
+                    "url": "https://mitpress.mit.edu/9780262038669/recursive-macroeconomic-theory/"
+                },
+                {
+                    "text": "Topics in Mathematics with Applications in Finance",
+                    "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
+                },
+                {
+                    "text": "Textbook by Szepesvari",
+                    "url": "https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf"
+                },
+                {
+                    "text": "The State of Zero-Knowledge Machine Learning (zkML)",
+                    "url": "https://blog.spectral.finance/the-state-of-zero-knowledge-machine-learning-zkml/"
+                },
+                {
+                    "text": "Modulus Labs",
+                    "url": "https://www.moduluslabs.xyz/"
+                },
+                {
+                    "text": "Axiom",
+                    "url": "https://www.axiom.xyz/blog"
+                }
+            ]
+        },
+        "Dynamic macroeconomics": {
+            "text": [
+                "The ABCs of RBCs by McCandlessRecursive Macroeconomic Theory by Ljungvist and Sargent",
+                "",
+                "i.e.computational finance, financial engineering",
+                "Topics in Mathematics with Applications in Finance- MIT Open Courseware",
+                "",
+                "Textbook by Szepesvari",
+                "",
+                "The State of Zero-Knowledge Machine Learning (zkML)by Spectral.fiModulus LabsAxiom"
+            ],
+            "links": [
+                {
+                    "text": "The ABCs of RBCs by McCandless",
+                    "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674028142"
+                },
+                {
+                    "text": "Recursive Macroeconomic Theory by Ljungvist and Sargent",
+                    "url": "https://mitpress.mit.edu/9780262038669/recursive-macroeconomic-theory/"
+                },
+                {
+                    "text": "Topics in Mathematics with Applications in Finance",
+                    "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
+                },
+                {
+                    "text": "Textbook by Szepesvari",
+                    "url": "https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf"
+                },
+                {
+                    "text": "The State of Zero-Knowledge Machine Learning (zkML)",
+                    "url": "https://blog.spectral.finance/the-state-of-zero-knowledge-machine-learning-zkml/"
+                },
+                {
+                    "text": "Modulus Labs",
+                    "url": "https://www.moduluslabs.xyz/"
+                },
+                {
+                    "text": "Axiom",
+                    "url": "https://www.axiom.xyz/blog"
+                }
+            ]
+        },
+        "Financial mathematics": {
+            "text": [
+                "i.e.computational finance, financial engineering",
+                "Topics in Mathematics with Applications in Finance- MIT Open Courseware",
+                "",
+                "Textbook by Szepesvari",
+                "",
+                "The State of Zero-Knowledge Machine Learning (zkML)by Spectral.fiModulus LabsAxiom"
+            ],
+            "links": [
+                {
+                    "text": "Topics in Mathematics with Applications in Finance",
+                    "url": "https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/"
+                },
+                {
+                    "text": "Textbook by Szepesvari",
+                    "url": "https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf"
+                },
+                {
+                    "text": "The State of Zero-Knowledge Machine Learning (zkML)",
+                    "url": "https://blog.spectral.finance/the-state-of-zero-knowledge-machine-learning-zkml/"
+                },
+                {
+                    "text": "Modulus Labs",
+                    "url": "https://www.moduluslabs.xyz/"
+                },
+                {
+                    "text": "Axiom",
+                    "url": "https://www.axiom.xyz/blog"
+                }
+            ]
+        },
+        "Reinforcement learning": {
+            "text": [
+                "Textbook by Szepesvari",
+                "",
+                "The State of Zero-Knowledge Machine Learning (zkML)by Spectral.fiModulus LabsAxiom"
+            ],
+            "links": [
+                {
+                    "text": "Textbook by Szepesvari",
+                    "url": "https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf"
+                },
+                {
+                    "text": "The State of Zero-Knowledge Machine Learning (zkML)",
+                    "url": "https://blog.spectral.finance/the-state-of-zero-knowledge-machine-learning-zkml/"
+                },
+                {
+                    "text": "Modulus Labs",
+                    "url": "https://www.moduluslabs.xyz/"
+                },
+                {
+                    "text": "Axiom",
+                    "url": "https://www.axiom.xyz/blog"
+                }
+            ]
+        },
+        "Zero-knowledge machine learning (zkML)": {
+            "text": [
+                "The State of Zero-Knowledge Machine Learning (zkML)by Spectral.fiModulus LabsAxiom"
+            ],
+            "links": [
+                {
+                    "text": "The State of Zero-Knowledge Machine Learning (zkML)",
+                    "url": "https://blog.spectral.finance/the-state-of-zero-knowledge-machine-learning-zkml/"
+                },
+                {
+                    "text": "Modulus Labs",
+                    "url": "https://www.moduluslabs.xyz/"
+                },
+                {
+                    "text": "Axiom",
+                    "url": "https://www.axiom.xyz/blog"
+                }
+            ]
+        },
+        "For those who enjoy reading abstracts, algebra, and maybe abstract algebra": {
+            "text": [
+                "Here're some high-impact papers related to Web3 & cryptocurrencies by subject. For a more complete list ofpublishedpapers check outCBER's Blockchain Literature Catalog.",
+                "",
+                "\"Is Bitcoin a real currency? An Economic Appraisal\" by Yermack",
+                "\"Some Simple Bitcoin Economics\" by Schilling and Uhlig\"The Economic Limits of Bitcoin and Anonymous, Decentralized Trust on the Blockchain\" by Eric Budish\"Some Simple Economics of the Blockchain\" by Catalini and Gans\"Blockchain without Waste: Proof-of-Stake\" by Saleh\"Tokenomics: Dynamic Adoption and Valuation\" by Cong, Li, and Wang",
+                "",
+                "\"Risks and Returns of Cryptocurrency\" by Liu and Tsyvinski\"Trading and Arbitrage in Cryptocurrency Markets\" by Makarov and Schoar\"Is Bitcoin really untethered?\" by Griffin and Shams\"Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?\" by Foley, Karlsen, and Putnins\"Initial Coin Offerings: Financing Growth with Cryptocurrency Token Sales\" by Howell, Niessner, and Yermack",
+                "",
+                "\"Improved Price Oracles: Constant Function Market Makers\" by Angeris and Chitra",
+                "\"Automated Market Making and Loss-Versus-Rebalancing\" by Milionis, Moallemi, Roughgarden, and Zhang"
+            ],
+            "links": [
+                {
+                    "text": "CBER's Blockchain Literature Catalog",
+                    "url": "https://www.cber-forum.org/literature"
+                }
+            ]
+        },
+        "Economics / Finance - Theory": {
+            "text": [
+                "\"Is Bitcoin a real currency? An Economic Appraisal\" by Yermack",
+                "\"Some Simple Bitcoin Economics\" by Schilling and Uhlig\"The Economic Limits of Bitcoin and Anonymous, Decentralized Trust on the Blockchain\" by Eric Budish\"Some Simple Economics of the Blockchain\" by Catalini and Gans\"Blockchain without Waste: Proof-of-Stake\" by Saleh\"Tokenomics: Dynamic Adoption and Valuation\" by Cong, Li, and Wang",
+                "",
+                "\"Risks and Returns of Cryptocurrency\" by Liu and Tsyvinski\"Trading and Arbitrage in Cryptocurrency Markets\" by Makarov and Schoar\"Is Bitcoin really untethered?\" by Griffin and Shams\"Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?\" by Foley, Karlsen, and Putnins\"Initial Coin Offerings: Financing Growth with Cryptocurrency Token Sales\" by Howell, Niessner, and Yermack",
+                "",
+                "\"Improved Price Oracles: Constant Function Market Makers\" by Angeris and Chitra",
+                "\"Automated Market Making and Loss-Versus-Rebalancing\" by Milionis, Moallemi, Roughgarden, and Zhang"
+            ],
+            "links": []
+        },
+        "Economics / Finance - Empirical": {
+            "text": [
+                "\"Risks and Returns of Cryptocurrency\" by Liu and Tsyvinski\"Trading and Arbitrage in Cryptocurrency Markets\" by Makarov and Schoar\"Is Bitcoin really untethered?\" by Griffin and Shams\"Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?\" by Foley, Karlsen, and Putnins\"Initial Coin Offerings: Financing Growth with Cryptocurrency Token Sales\" by Howell, Niessner, and Yermack",
+                "",
+                "\"Improved Price Oracles: Constant Function Market Makers\" by Angeris and Chitra",
+                "\"Automated Market Making and Loss-Versus-Rebalancing\" by Milionis, Moallemi, Roughgarden, and Zhang"
+            ],
+            "links": []
+        },
+        "DeFi": {
+            "text": [
+                "\"Improved Price Oracles: Constant Function Market Makers\" by Angeris and Chitra",
+                "\"Automated Market Making and Loss-Versus-Rebalancing\" by Milionis, Moallemi, Roughgarden, and Zhang"
+            ],
+            "links": []
+        }
+    }
+}
