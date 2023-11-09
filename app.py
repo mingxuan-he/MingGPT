@@ -1,23 +1,26 @@
 import streamlit as st
 from openai import OpenAI
-import time
-import dotenv
 
-# TODO: check if knowledge base needs update
+import time
+import os
+
+from gather import gather
 
 st.title("Chat with MingGPT 💬")
 
 WELCOME = """
-    Hi, I'm MingGPT. How can I help you?
+    Hi:wave:, I'm MingGPT. How can I help you?
     """
 
 # initialize session
     # note: all API variables are stored in session state for persistence
 if "messages" not in st.session_state:
+    
+    # TODO: check if knowledge base needs update, if so run gather.py
 
     # load openai client
-    dotenv.load_dotenv()
-    client = OpenAI()
+    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+    client = OpenAI(api_key=OPENAI_API_KEY)
     st.session_state["client"] = client
 
     # load assistant (prebuilt)
@@ -63,31 +66,39 @@ if prompt := st.chat_input():
         assistant_id=assistant_id,
     )
 
-    # wait for response
-    # TODO: spinner & waiting message with st.status
-    s = None
-    while s != "completed":
-        time.sleep(1)
-        run = client.beta.threads.runs.retrieve(
-            thread_id=thread_id, 
-            run_id=run.id
-            )
-        s = run.status
-        print(f"status:{s}")
+    # assistant response
+    with st.chat_message("assistant"):
 
-    # get assistant response
-    messages = client.beta.threads.messages.list(thread_id=thread_id)
-    msg = messages.data[0]
-    response_text = msg.content[0].text.value
+        # wait for response
+        with st.spinner("Thinking..."):
+            s = None
+            while s not in ["completed", "failed", "expired", "cancelled"]:
+                time.sleep(1)
+                run = client.beta.threads.runs.retrieve(
+                    thread_id=thread_id, 
+                    run_id=run.id
+                    )
+                s = run.status
+                print(f"status:{s}")
+        
+        # error handling
+        if s == "failed":
+            st.error("Sorry, something went wrong. Please try again.")
+            st.stop()
+        elif s == "expired":
+            st.error("Sorry, the session has expired. Please refresh the page.")
+            st.stop()
 
-    for m in reversed(messages.data):
-        print(m.role)
-        print(m.content[0].text.value)
-        print("\n")
+        # get response
+        messages = client.beta.threads.messages.list(thread_id=thread_id)
+        msg = messages.data[0]
+        response_text = msg.content[0].text.value
 
-    # TODO: avatar
+        print(response_text)
 
-    # write & save assistant response
-    st.chat_message("assistant").write(response_text)
-    st.session_state.messages.append({"role": "assistant", "content": response_text})
+        # TODO: avatar
+
+        # write & save assistant response
+        st.write(response_text)
+        st.session_state.messages.append({"role": "assistant", "content": response_text})
 
