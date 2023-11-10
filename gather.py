@@ -1,6 +1,35 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import os
+from datetime import datetime, timedelta
+
+
+def check_knowledge_updates():
+    """
+    check if knowledge base needs update
+    """
+
+    UPDATE_FREQUENCY = timedelta(days=7)
+    update_needed = {}
+    knowledge_files = os.listdir('knowledge/')
+    knowledge_files.remove('tracking.json')
+    for kf in knowledge_files:
+        # check time last modified vs frequency
+        last_mod = os.path.getmtime('knowledge/' + kf)
+        update_needed[kf] = datetime.now() - datetime.fromtimestamp(last_mod) > UPDATE_FREQUENCY
+    return update_needed
+
+
+def get_cv():
+    """
+    get cv pdf file (download from github)
+    """
+
+    cv_url = 'https://raw.githubusercontent.com/mingxuan-he/mingxuan-he/master/Mingxuan_He_CV.pdf'
+    response = requests.get(cv_url)
+    with open('knowledge/cv.pdf', 'wb') as f:
+        f.write(response.content)
 
 
 def get_structured_text(url):
@@ -14,23 +43,6 @@ def get_structured_text(url):
 
     # scrape projects page
     structured_text = {}
-
-    """
-    # get general information from elements without preceding headers (currently buggy)
-    structured_text = {'General Information': {'text': [], 'links': []}}
-    for element in soup.find_all(['span']):
-        # check if this element is preceded by a header
-        if element.find_previous_siblings(['h1', 'h2', 'h3', 'h4', 'h5', 'h6']):
-            continue  # If there's a header, it's already been processed
-
-        # get text and links from elements without preceding headers
-        txt = element.get_text(strip=True)
-        if txt not in structured_text['General Information']['text'] and txt != "":
-            structured_text['General Information']['text'].append(txt)
-        links = element.find_all('a', href=True)
-        for link in links:
-            structured_text['General Information']['links'].append({'text': link.get_text(strip=True), 'url': link['href']})
-    """
 
     # find all header tags and corresponding text
     for header_tag in ['h1', 'h2', 'h3', 'h4', 'h5', 'h6']:
@@ -61,18 +73,12 @@ def get_structured_text(url):
     return structured_text
 
 
-def gather():
+def get_personal_website():
+    """
+    get personal website data (scrape pages using bs4 and store structured text in json)
+    """
 
-    # download cv pdf file
-    cv_url = 'https://raw.githubusercontent.com/mingxuan-he/mingxuan-he/master/Mingxuan_He_CV.pdf'
-    response = requests.get(cv_url)
-    with open('knowledge/cv.pdf', 'wb') as f:
-        f.write(response.content)
-
-
-    # scrape pages from personal website using bs4
     website_base_url = 'https://mingxuanhe.xyz'
-
     website_data = {}
     for page in ['home', 'projects', 'writings', 'resources']:
         url = website_base_url + '/' + page
@@ -81,11 +87,54 @@ def gather():
         with open('knowledge/personal_website.json', 'w') as f:
             json.dump(website_data, f, indent=4)
 
+
+def upload_knowledge(client, assistant_id, filename):
+    """
+    uploads a file to assitant's knowledge base
+    """
+    file = client.files.create(
+        file=open("knowledge/" + filename, "rb"),
+        purpose="assistants"
+    )
+
+    # TODO: does create overwrite existing files with same name?
+
+    assistant_file = client.beta.assistants.files.create(
+        assistant_id=assistant_id,
+        file_id=file.id,
+    )
+
+
+def gather_knowledge(client, assistant_id):
+    """
+    main function for checking, updating, and uploading knowledge base
+    client: openai client
+    assistant_id: id of the assistant to upload knowledge to
+    """
+
+    # check for knowledge base updates
+    update_needed = check_knowledge_updates()
+    
+    # update outdated files
+    if update_needed['cv.pdf']:
+        get_cv()
+        upload_knowledge(client, assistant_id, filename='cv.pdf')
+    
+    if update_needed['personal_website.json']:
+        get_personal_website()
+        upload_knowledge(client, assistant_id, filename='personal_website.json')
+
     # TODO: gather coding stats and github repos
 
+    # TODO: gather blog posts from medium
 
+    # TODO: gather tweets
 
-
-if __name__ == '__main__':
-    gather()
+    # record update time in tracking file
+    if any(update_needed.values()):
+        with open("knowledge/tracking.json", 'w') as tracking_file:
+            new_update_time = {
+                "last_update" : datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                }
+            json.dump(new_update_time, tracking_file, indent=4)
 

@@ -4,7 +4,7 @@ from openai import OpenAI
 import time
 import os
 
-from gather import gather
+from gather import gather_knowledge
 
 st.title("Chat with MingGPT 💬")
 
@@ -15,8 +15,6 @@ WELCOME = """
 # initialize session
     # note: all API variables are stored in session state for persistence
 if "messages" not in st.session_state:
-    
-    # TODO: check if knowledge base needs update, if so run gather.py
 
     # load openai client
     OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
@@ -27,6 +25,14 @@ if "messages" not in st.session_state:
     assistant_id = "asst_LQRRMGpHSNc4go5xHWvKbB54"
     st.session_state["assistant_id"] = assistant_id
     #assistant = client.beta.assistants.retrieve(assistant_id)
+
+    # check for knowledge base update
+    with st.spinner("Retrieving knowledge base..."):
+        gather_knowledge(client,assistant_id)
+            
+    # TODO: write "last updated" message
+    # TODO: upload updated knowledge base to assitant via OpenAI API
+    # TODO: automatic update every week (currently not supported by streamlit)
 
     # start thread
     thread = client.beta.threads.create()
