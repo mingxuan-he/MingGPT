@@ -6,10 +6,22 @@ import os
 
 from gather import gather_knowledge
 
-st.title("Chat with MingGPT 💬")
+st.set_page_config(page_title="MingGPT", page_icon=":robot_face:")
 
 WELCOME = """
-    Hi:wave:, I'm MingGPT. How can I help you?
+    Hi:wave:, Ming here. What would you like to chat about today?
+    """
+ABOUT = """
+    This is MingGPT, the AI clone of Mingxuan He. I can chat with you about:
+    - My experiences, research, and education, in either high-level or technical style
+    - Discuss various topics in Web3/DeFi and data science/AI
+    - My hobbies and interests  
+    ## About
+    :hammer_and_wrench: I'm powered by OpenAI's latest GPT-4-turbo + assistants framework, and trained on Ming's personal data.
+    If you want to learn more about how I'm built, check out [my GitHub repo](https://github.com/mingxuan-he/MingGPT).
+    ## Disclaimer
+    :brain: All opinions are my own.  
+    :books: My knowledge base is still being built, stay tuned for more updates!
     """
 
 # initialize session
@@ -43,6 +55,11 @@ if "messages" not in st.session_state:
         # TODO: write welcome message
         {"role": "assistant", "content": WELCOME}
     ]
+
+# side bar
+with st.sidebar:
+    st.title("Chat with MingGPT :speech_balloon:")
+    st.write(ABOUT)
 
 # display chat history
 for msg in st.session_state.messages:
