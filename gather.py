@@ -92,12 +92,13 @@ def upload_knowledge(client, assistant_id, filename):
     """
     uploads a file to assitant's knowledge base
     """
+
+    # TODO: find the current version of the file, and delete it before uploading new version
+
     file = client.files.create(
         file=open("knowledge/" + filename, "rb"),
         purpose="assistants"
     )
-
-    # TODO: does create overwrite existing files with same name?
 
     assistant_file = client.beta.assistants.files.create(
         assistant_id=assistant_id,

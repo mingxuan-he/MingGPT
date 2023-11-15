@@ -3,3 +3,4 @@ server_user_id.txt
 test_gather.ipynb
 __pycache__
 secrets.toml
+private_knowledge
